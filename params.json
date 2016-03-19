@@ -1,0 +1,6 @@
+{
+  "name": "Hello worlds",
+  "tagline": "Hello World in a variety of languages.",
+  "body": "Hello Worlds\r\n===\r\n\r\nThis is a collection of Hello World programs in a number of different languages.\r\n\r\n- Hello World in [Python](python/README.md).\r\n- Hello World in [Ruby](ruby/README.md).\r\n- Hello World in [C](c/README.md).\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
